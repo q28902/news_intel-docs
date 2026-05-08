@@ -9,12 +9,12 @@
 
 | Layer | 역할 | 문서 |
 |---|---|---|
-| L1 | 지정학적 친화도 (4 차원 + KR macro lens) | [LAYER1/README.md](LAYER1/README.md), [PATCH_NOTES](LAYER1/PATCH_NOTES.md) |
-| L2 | 데이터 소스 통합 + L1 snapshot 헬퍼 | [LAYER2/PATCH_NOTES.md](LAYER2/PATCH_NOTES.md) |
-| L3 | RAG (이벤트 카드) | [LAYER3/README.md](LAYER3/README.md), [RAG_DESIGN](LAYER3/RAG_DESIGN.md) |
-| L4 | 섹터별 dynamic weighting | [LAYER4/README.md](LAYER4/README.md) |
-| L5 | 종목 단위 (universe + signal) | [LAYER5/README.md](LAYER5/README.md) |
-| App | Android 클라이언트 | [layer-app/README.md](layer-app/README.md) |
+| L1 | 지정학적 친화도 (4 차원 + KR macro lens) | [LAYER1_README.md](LAYER1_README.md), [PATCH_NOTES](LAYER1_PATCH_NOTES.md) |
+| L2 | 데이터 소스 통합 + L1 snapshot 헬퍼 | [LAYER2_PATCH_NOTES.md](LAYER2_PATCH_NOTES.md) |
+| L3 | RAG (이벤트 카드) | [LAYER3_README.md](LAYER3_README.md), [RAG_DESIGN](LAYER3_RAG_DESIGN.md) |
+| L4 | 섹터별 dynamic weighting | [LAYER4_README.md](LAYER4_README.md) |
+| L5 | 종목 단위 (universe + signal) | [LAYER5_README.md](LAYER5_README.md) |
+| App | Android 클라이언트 | [layer-app_README.md](layer-app_README.md) |
 
 ## 동기화 정책
 
